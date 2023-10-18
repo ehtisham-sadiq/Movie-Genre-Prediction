@@ -1,4 +1,20 @@
 # Movie Genre Prediction - Deployment
+
+### Key Topics Covered:
+
+- **Data Collection and Preprocessing:** Explore the methods used to gather movie data and the steps involved in cleaning and preparing the dataset for analysis.
+
+- **Feature Engineering:** Learn how feature selection and engineering play a crucial role in building effective genre prediction models.
+
+- **Machine Learning Models:** Dive into the world of machine learning algorithms, from classic methods to deep learning, and understand how they are applied to predict movie genres.
+
+- **Evaluation Metrics:** Discover the metrics used to assess the performance of genre prediction models, ensuring they meet industry standards.
+
+- **Model Deployment:** Explore the deployment of the machine learning model into a production environment for real-world applications.
+
+- **User Interface:** Understand how to create an intuitive user interface for users to interact with the genre prediction system.
+
+
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
